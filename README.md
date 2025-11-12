@@ -175,6 +175,7 @@ See `requirements.txt` for versions. Install via `pip install -r requirements.tx
 
 ---
 
+<img width="1919" height="1079" alt="Screenshot 2025-02-04 122118" src="https://github.com/user-attachments/assets/3b8e3465-f2be-49d6-a6d9-fb14a797099c" />
 
 
 ## Author / Contact
